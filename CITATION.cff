@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use, discuss, extend, or refer to this project, please cite it."
+
+title: "Toward a Formal Theory of Consciousness as Generative Causal Continuity"
+
+authors:
+  - family-names: "De Rossi"
+    given-names: "Daniele Maria"
+
+abstract: >
+  A research repository for developing a formal theory of consciousness
+  as Generative Causal Continuity, including theoretical documents,
+  operational variables, conceptual models, predictions, falsifiability
+  criteria, and experimental explorations.
+
+keywords:
+  - consciousness
+  - formal theory
+  - generative causal continuity
+  - causal integration
+  - agency
+  - self-modeling
+  - representation
+  - dynamical systems
+
+license: "Apache-2.0 AND CC-BY-4.0"
+
+repository-code: "https://github.com/crymachine/Toward-a-Formal-Theory-of-Consciousness-as-Generative-Causal-Continuity"
+
+version: "0.1.0"
