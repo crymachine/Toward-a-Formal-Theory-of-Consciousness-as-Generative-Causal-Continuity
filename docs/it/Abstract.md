@@ -1,6 +1,4 @@
-\## Abstract
-
-
+## Abstract
 
 Questo documento propone una teoria preliminare della coscienza intesa non come proprietà binaria, né come semplice possesso di informazione, ma come grado di organizzazione dinamica di un sistema capace di conservare continuità interna, integrare causalmente i propri stati, modellare sé stesso e l'ambiente, e modificare attivamente la distribuzione dei propri input futuri.
 

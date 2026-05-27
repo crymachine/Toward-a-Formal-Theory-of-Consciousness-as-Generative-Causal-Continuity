@@ -1,0 +1,11 @@
+## Abstract
+
+This document proposes a **preliminary theory of consciousness** understood not as a binary property, nor as the simple possession of information, but as the **degree of dynamic organization** of a system capable of preserving internal continuity, causally integrating its own states, modeling itself and the environment, and **actively modifying the distribution of its future inputs**.
+
+The **central thesis** is that consciousness does not coincide with representable, transmissible, or simulatable data, but with the **internal causal continuity** of a system that passes through successive states while maintaining a form of **dynamic identity**. Every observation, measurement, representation, and communication introduces a **structural loss**: the lived phenomenon is not transferred in its entirety, but compressed into signals, symbols, images, sounds, or behaviors.
+
+The theory is developed as a **scientific program**: operational variables, conceptual formulas, relationships with accredited theories of consciousness, predictions, falsification conditions, and limitations are introduced. A specific section extends the model to **aesthetics**: art is interpreted as an **external and partial encoding of a conscious state**, capable of coupling with the internal state of a viewer and generating **experiential resonance**. In this framework, **informational loss** is not just a transmission defect but can become a **generative tolerance**, analogous to the mechanical play that allows an adaptive joint to transmit motion between axes that are not perfectly aligned.
+
+Finally, the model is applied to the limiting case of the **universe considered as a global system**. The cautious hypothesis is not that the universe is necessarily a unitary conscious subject, but that **local consciousnesses** can be interpreted as processes through which the universe-system produces **partial representations of itself**.
+
+**Keywords:** consciousness, information, representation, agency, causal integration, memory, self-modeling, aesthetics, resonance, art, dynamic systems, active inference, Integrated Information Theory, Global Workspace Theory, cosmopsychism.
